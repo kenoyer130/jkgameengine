@@ -31,6 +31,10 @@ var BumperSprite = (function () {
 	BumperSprite.prototype.getHeight = function () {
 		return _h;
 	}
+	
+	BumperSprite.prototype.getWidth = function () {
+		return _w;
+	}
 
 	BumperSprite.prototype.draw = function (context) {
 		context.fillStyle = "rgb(150,29,28)";

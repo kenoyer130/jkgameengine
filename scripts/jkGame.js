@@ -6,8 +6,8 @@
 // show a different screen with the Show method.
 var JKGame = (function () {
 
-	// in milliseconds
-	var LOOP_TIMER = 10;
+	// 1/60th a second
+	var LOOP_TIMER = 16.7;
 
 	// private variables
 	var _screens = {};

@@ -11,7 +11,8 @@
             <File name="scripts\BaseScreen.js" />
             <File name="scripts\MainScreen.js" />
             <File name="scripts\JKBus.js" />
-            <File name="scripts\sprites.js" />
+            <File name="scripts\bumperSprite.js" />
+            <File name="scripts\BallSprite.js" />
         </Folder>
     </Project>
 </NotepadPlus>
