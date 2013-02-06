@@ -13,6 +13,7 @@
             <File name="scripts\JKBus.js" />
             <File name="scripts\bumperSprite.js" />
             <File name="scripts\BallSprite.js" />
+            <File name="scripts\BaseSprite.js" />
         </Folder>
     </Project>
 </NotepadPlus>

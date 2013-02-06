@@ -133,7 +133,6 @@ var JKGame = (function () {
 			_start();
 		}
 	}
-
 	return JKGame;
 })();
 
